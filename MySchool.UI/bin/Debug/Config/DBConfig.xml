@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <DBConfig>
+    <Server>127.0.0.1</Server>
+    <DataBase>MySchool</DataBase>
+    <UerID>sa</UerID>
+    <Password>123456</Password>
+  </DBConfig>
+</root>

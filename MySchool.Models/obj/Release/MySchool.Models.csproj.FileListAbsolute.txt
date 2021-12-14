@@ -1,0 +1,4 @@
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.Models\bin\Release\MySchool.Models.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.Models\bin\Release\MySchool.Models.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.Models\obj\Release\MySchool.Models.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.Models\obj\Release\MySchool.Models.pdb

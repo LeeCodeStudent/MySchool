@@ -1,0 +1,13 @@
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.BLL.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.BLL.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.DAL.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.Models.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.Utils.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.ViewModels.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.DAL.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.Models.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.Utils.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\bin\Release\MySchool.ViewModels.pdb
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\obj\Release\MySchool.BLL.csprojResolveAssemblyReference.cache
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\obj\Release\MySchool.BLL.dll
+C:\Users\凉迹\Desktop\Winform\项目文件\三层架构之简单学生管理系统\MySchool\MySchool\MySchool.BLL\obj\Release\MySchool.BLL.pdb
